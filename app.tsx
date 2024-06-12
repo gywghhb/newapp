@@ -4,7 +4,7 @@ const App = () => {
   // ... comment
 
   return(
-    <div>Hello world</div>
+    <div>Hello world. This is Tom.</div>
   )
 }
 
